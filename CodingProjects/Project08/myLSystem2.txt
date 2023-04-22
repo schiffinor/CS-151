@@ -1,0 +1,2 @@
+base F
+rule F FF[+F][+<gL][--FF][-F+F][-<gL][--<gL]<rB>
